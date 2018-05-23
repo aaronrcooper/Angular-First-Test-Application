@@ -28,3 +28,6 @@ Interface:
 	product.ts
 	-imported in product.service.ts, project-list.component.ts
 	
+Guard: 
+	Created in produce-guard.service.ts
+	Implemented in product.module.ts
